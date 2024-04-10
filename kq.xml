@@ -1,0 +1,6 @@
+<Student>
+<age>0</age>
+<sum>0</sum>
+<isPrime>false</isPrime>
+<encodedDateOfBirth>null</encodedDateOfBirth>
+</Student>
